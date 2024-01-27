@@ -1,1 +1,1 @@
-export const DB_NAME="pratik_backend"
+export const DB_NAME="pratikbackend";
